@@ -147,11 +147,11 @@ div .annual-plan{
     
 }
 .proceed button{
-    padding: 13px;
+   padding: 13px;
     width: 312px;
     border: 0;
     font-weight: 550;
-    box-shadow: 1px 3px 10px 0px var(--Very-pale-blue);
+    box-shadow: 0px 6px 25px -2px var(--Desaturated-blue);
     color: var(--Very-pale-blue);
     background: var(--Bright-blue);
     border-radius: 10px;
